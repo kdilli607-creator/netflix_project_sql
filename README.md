@@ -251,5 +251,5 @@ FROM (
 ) AS categorized_content
 GROUP BY category;
 ```
-##author- kdilli607
+### author- kdilli607
 Thank you for your support, and I look forward to connecting with you!
